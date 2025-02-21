@@ -1,0 +1,7 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@schema = https
+@hostname = localhost
+@port = 7261
+
+GET {{schema}}://{{hostname}}:{{port}}/api/cities
+Accept: application/xml

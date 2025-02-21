@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2025-01-28T08:02:15.1224148Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2025-01-28T08:05:12.2564878Z"
+    }
+  },
+  "parameters": {
+    "CityInfoAPI-AppService.resourceName": {
+      "Name": "CityInfoAPI-AppService.resourceName",
+      "Type": null,
+      "Value": "CityInfoAPI-AppService"
+    },
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "9fddc264-9fb0-4abe-b132-19367215bf27"
+    },
+    "mssql1.resourceGroupLocation": {
+      "Name": "mssql1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "westus"
+    },
+    "secrets1.resourceGroupName": {
+      "Name": "secrets1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CityInfoAPI-RG"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CityInfoAPI-RG"
+    },
+    "CityInfoAPI-AppService.resourceGroupLocation": {
+      "Name": "CityInfoAPI-AppService.resourceGroupLocation",
+      "Type": null,
+      "Value": "westus"
+    },
+    "CityInfoAPI-AppService.resourceGroupName": {
+      "Name": "CityInfoAPI-AppService.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CityInfoAPI-RG"
+    },
+    "CityInfoAPI-AppService.subscriptionId": {
+      "Name": "CityInfoAPI-AppService.subscriptionId",
+      "Type": "subscription",
+      "Value": "9fddc264-9fb0-4abe-b132-19367215bf27"
+    },
+    "secrets1.subscriptionId": {
+      "Name": "secrets1.subscriptionId",
+      "Type": "subscription",
+      "Value": "9fddc264-9fb0-4abe-b132-19367215bf27"
+    }
+  }
+}

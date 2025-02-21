@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzWWoWRke70e+WIVinlRm/wAAAAACAAAAAAADZgAAwAAAABAAAADl1Ke3UE57bV9xVICusIO0AAAAAASAAACgAAAAEAAAADyzqnw9Ny02ixHvoNbHs7CAAAAANRBdaBbMIsUtIX5fpcxDd1EgFnlraGqxGx+kbTuvGwdRM/RGPQFC6dbUp4FXwhCYxPdrzctsruspQK7C5FO4zoPJHPEEIqHV3yefs7oRzZmLObDQQYkomS0X+qiQljUShIvG5aVMA9bJYt4BVX4Y1ywv42tiA7RXaBK0y+AmW98UAAAA648AJL546jvWb10KpYY/+4NeLeo=</EncryptedPassword>
+    <History>True|2025-01-29T06:43:18.5991081Z||;True|2025-01-29T12:01:43.0844814+05:30||;True|2025-01-28T15:30:40.2205071+05:30||;True|2025-01-28T15:26:07.3465798+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="CityInfo.API.DBContext.CityInfoContext">
+      <Value>Data Source=cityinfo2apidbserver.database.windows.net,1433%3bInitial Catalog=CityInfo2.API_db%3bUser ID=admin123%3bPassword=Admin%40123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
